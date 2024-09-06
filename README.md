@@ -1,1 +1,1 @@
-Thnaks me later ;)
+Thanks me later ;)
