@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>simpleProgram</servlet-name>
+<servlet-class>pract21</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>simpleProgram</servlet-name>
+<url-pattern>/mypro</url-pattern>
+</servlet-mapping>
+</web-app>
